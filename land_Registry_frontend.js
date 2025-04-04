@@ -5,7 +5,7 @@ import './App.css';
 import LandRegistry from './artifacts/contracts/LandRegistry.sol/LandRegistry.json';
 
 // The contract address will need to be updated after deployment to Sepolia
-const contractAddress = '0xYourDeployedContractAddressOnSepolia';
+const contractAddress = '0x2E4dF7e7a62397F9E95E705B94ebF1c14dBc6f9B';
 
 function App() {
   // State variables
